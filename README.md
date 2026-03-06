@@ -1,2 +1,1 @@
-# 100dayswebdeveloper
-all projects made in three months
+#python and dsa
